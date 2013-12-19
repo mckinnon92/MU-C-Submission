@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="games_array">       
+ 	    <item>Glasgow (2014)</item>
+        <item>Delhi (2010)</item>
+        <item>Melbourne (2006)</item>
+        <item>Manchester (2002)</item>
+        <item>Kuala Lumpur (1998)</item>
+        <item>Victoria (1994)</item>
+        <item>Auckland (1990)</item>
+        <item>Edinburgh (1986)</item>
+        <item>Brisbane (1982)</item>
+        <item>Edmonton (1978)</item>
+    </string-array>
+
+</resources>
